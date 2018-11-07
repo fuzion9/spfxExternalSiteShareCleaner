@@ -1,6 +1,8 @@
 ## external-site-share-cleaner-webpart
 
-This is where you include your WebPart documentation.
+Sharepoint Web Part providing the (as of now, missing) ability to remove elements on a sharepoint modern page.  This is useful for removing items such as Office 365 Launcher Bar, Share/Email Buttons, Footers, and any other elements on a page.
+
+This webapp also provides the ability to add custom querySelector searches to find and hide any css/div/buttons/etc.. and have them hidden.
 
 ### Building the code
 
