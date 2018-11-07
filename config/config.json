@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "external-site-share-cleaner-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/externalSiteShareCleaner/ExternalSiteShareCleanerWebPart.js",
+          "manifest": "./src/webparts/externalSiteShareCleaner/ExternalSiteShareCleanerWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ExternalSiteShareCleanerWebPartStrings": "lib/webparts/externalSiteShareCleaner/loc/{locale}.js"
+  }
+}

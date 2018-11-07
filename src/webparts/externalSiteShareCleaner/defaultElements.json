@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Office 365 Launcher Bar",
+    "propertyName": "Office365Launcher",
+    "querySelector": "div[id='SuiteNavPlaceHolder']",
+    "hidden": false
+  },
+  {
+    "name":"Share Site Button",
+    "propertyName": "ShareSiteButton",
+    "querySelector": "button[data-automationid='ShareSiteButton']",
+    "hidden": false
+  },
+  {
+    "name":"Send By Email Button",
+    "propertyName": "SendByEmailButton",
+    "querySelector": "button[data-automation-id='shareButton']",
+    "hidden": false
+  },
+  {
+    "name":"Footer Bar",
+    "propertyName": "FooterBar",
+    "querySelector": "[class^='footerBar_']",
+    "hidden": false
+  }
+]

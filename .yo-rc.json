@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "external-site-share-cleaner-webpart",
+    "libraryId": "0df3a3a0-c221-47dd-acd3-ebd072d8171f",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

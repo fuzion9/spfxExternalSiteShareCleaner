@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "external-site-share-cleaner-webpart-client-side-solution",
+    "id": "0df3a3a0-c221-47dd-acd3-ebd072d8171f",
+    "version": "1.0.0.1",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/external-site-share-cleaner-webpart.sppkg"
+  }
+}
